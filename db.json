@@ -1,0 +1,28 @@
+{
+  "posts": [
+      {
+          "id": 1,
+          "title": "Daily Journal",
+          "image": "https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
+          "author": "Max Lee",
+          "date": "Dec 6, 2019",
+          "content": "Today was a great day. Not only did I ride my bike, I also read a great book today. I highly reccommend reading the Catcher and the Rye. 10/10 great read."
+      },
+      {
+          "id": 2,
+          "title": "Daily Journal",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
+          "author": "Jason Rivera",
+          "date": "Feb 22, 2020",
+          "content": "Today was okay. I got a phone call from my mom and she got mad at me. Oh well. Looking forward to better days."
+      },
+      {
+          "id": 3,
+          "title": "Corona virus blog",
+          "image": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1547&q=80",
+          "author": "Max Lee",
+          "date": "March 6, 2020",
+          "content": "I listened to this great podcast today about corona virus! I am worried about the virus but now I know how to take better preventative measures."
+      }
+  ]
+}
